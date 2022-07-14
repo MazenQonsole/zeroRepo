@@ -1,0 +1,22 @@
+{
+  "name": "testrepo",
+  "version": "1.0.0",
+  "description": "learn github and git using mongodb and nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MazenQonsole/zeroRepo.git"
+  },
+  "keywords": [
+    "learn"
+  ],
+  "author": "mazen mohamed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MazenQonsole/zeroRepo/issues"
+  },
+  "homepage": "https://github.com/MazenQonsole/zeroRepo#readme"
+}
